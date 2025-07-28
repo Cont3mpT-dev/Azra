@@ -1,0 +1,25 @@
+{
+    "title": "Fortigate - Wazuh Dashboard",
+    "panels": [
+        {
+            "id": "traffic-stats",
+            "type": "visualization",
+            "title": "Traffic Summary"
+        },
+        {
+            "id": "upload-download",
+            "type": "visualization",
+            "title": "Upload/Download Bytes"
+        },
+        {
+            "id": "vpn-sessions",
+            "type": "visualization",
+            "title": "VPN Sessions"
+        },
+        {
+            "id": "ips-alerts",
+            "type": "visualization",
+            "title": "IPS Alerts"
+        }
+    ]
+}
